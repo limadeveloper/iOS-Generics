@@ -5,7 +5,7 @@ Programming languange: `Swift 4.2`
 Tool: `Xcode 10`  
 
 **Description**  
-A short demo about Generics in Swift using a sound cache as an example.  
+A short demo about Generics in Swift using cache storage as an example.  
 
 **Example**  
 
